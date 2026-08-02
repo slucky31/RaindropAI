@@ -16,6 +16,10 @@ tests/                         xUnit.v3 + NSubstitute + WireMock.Net
 docs/adr/                      Architecture Decision Records
 ```
 
+## Roadmap
+
+L'outil classe et range, mais n'exploite pas encore ce qu'il a accumulé. [docs/roadmap.md](docs/roadmap.md) cartographie les scénarios envisagés pour synthétiser, nettoyer et relire ce contenu (serveur MCP, revues thématiques, détection de doublons, file de lecture), priorisés valeur/effort et découpés en lots livrables.
+
 ## Prérequis
 
 - .NET 10 SDK (dev local)
